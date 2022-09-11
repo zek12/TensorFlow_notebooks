@@ -1,6 +1,9 @@
 # TensorFlow_notebooks
 
 - Run basic_classification.ipynb on Google Colab:
+https://colab.research.google.com/drive/1imUNO_hbPDOj2d1J0p9hae416UjqkzKG
+
+- Run basic_classification.ipynb on Google Colab:
 https://colab.research.google.com/drive/1ii0ewszAoswhXHFRqZRmjzJN4wtVzFaT#scrollTo=dzLKpmZICaWN
 
 - Run basic_regression.ipynb on Google Colab:
